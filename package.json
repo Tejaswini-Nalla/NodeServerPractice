@@ -1,0 +1,15 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "Node Practice",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index",
+    "dev": "nodemon Index"
+  },
+  "author": "Tejaswini",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
